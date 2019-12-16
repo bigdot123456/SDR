@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!uplink
+uplink/*
+!uplink/*.py
+!downlink
+downlink/*
+!downlink/*.py
+!logo.svg
+!*screenshot.png
+!*.sh
